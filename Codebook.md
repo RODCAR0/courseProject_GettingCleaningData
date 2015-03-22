@@ -20,11 +20,11 @@ Date donated: 2012-12-10
   * Type: Factor
   * Description: Type of activity to be measured
   * Values: 
-  *  LAYING
-  *  SITTING
-  *  STANDING
-  *  WALKING
-  *  WALKING_DOWNSTAIRS
+  ** LAYING
+  ** SITTING
+  ** STANDING
+  ** WALKING
+  ** WALKING_DOWNSTAIRS
   *  WALKING_UPSTAIRS
 3. All rest features (mean and standard deviation)
     * Type: num
@@ -32,6 +32,6 @@ Date donated: 2012-12-10
     
                    To see further details for these attributes, check the code book on:
 
-                    http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+                   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
           
   
