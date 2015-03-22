@@ -7,7 +7,7 @@ Raw data can be found under the folder **UCI HAR Dataset** and after executing t
 
 ## Description of raw data
 
-This is the structure of the files used under the working directory (for further information related to the raw data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+Below the structure of the files used under the working directory (for further information related to the raw data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 * Folder UCI HAR Database
   * File **activity_labels** - Activity Codes to be measured and their descriptions
