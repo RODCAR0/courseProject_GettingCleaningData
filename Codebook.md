@@ -1,15 +1,15 @@
 # Code book for table **means_subjects_activities**
 
-Data Set Characteristics: Multivariate
-Attribute Characteristics: N/A
-Associated Tasks: Classification, Clustering
+**Data Set Characteristics**: Multivariate
+**Attribute Characteristics**: N/A
+**Associated Tasks**: Classification, Clustering
 
-Number of instances: 180
-Number of Attributes: 88
-Missing Values: N/A
+**Number of instances**: 180
+**Number of Attributes**: 88
+**Missing Values**: N/A
 
-Area: Computer
-Date donated: 2012-12-10
+**Area**: Computer
+**Date donated**: 2012-12-10
 
 ## Features description
 
@@ -25,7 +25,7 @@ Date donated: 2012-12-10
   ** STANDING
   ** WALKING
   ** WALKING_DOWNSTAIRS
-  *  WALKING_UPSTAIRS
+  **  WALKING_UPSTAIRS
 3. All rest features (mean and standard deviation)
     * Type: num
     * Description: All mean and std values of the training and test data sets, in turn, these columns have been grouped by                      subject and activity and then calculate the mean for each attribute
